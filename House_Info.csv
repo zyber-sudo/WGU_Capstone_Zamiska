@@ -1,4 +1,4 @@
-Zip_Code,County,Area,List_Price,Year_Built,Bedrooms,Baths_Full,Baths_Partial,Closing_Date,Sold_Price,Closing_Year,Price_Diffrence
+Zip_Code,County,Area,List_Price,Year_Built,Bedrooms,Baths_Full,Baths_Partial,Closing_Date,Sold_Price,Closing_Year,Price_Difference
 15301,Washington,Amwell,108000,1902,3,1,1,4/24/2015,179550,2015,-71550
 15311,Washington,Amwell,59900,1979,3,2,,8/21/2015,42500,2015,17400
 15314,Washington,Bentleyville,63900,1912,2,1,,8/11/2015,63900,2015,0
