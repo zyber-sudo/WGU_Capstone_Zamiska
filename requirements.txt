@@ -270,8 +270,6 @@ pygments==2.15.1
     #   qtconsole
 pyparsing==3.0.9
     # via matplotlib
-pypiwin32==223
-    # via -r .\requirements.in
 python-dateutil==2.8.2
     # via
     #   jupyter-client
@@ -283,8 +281,8 @@ pytz==2023.3
     # via pandas
 pywin32==306
     # via
+    #   -r .\requirements.in
     #   jupyter-core
-    #   pypiwin32
 pywinpty==2.0.10
     # via
     #   jupyter-server

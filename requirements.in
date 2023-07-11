@@ -7,4 +7,4 @@ IPython
 hide_code
 dash
 statsmodels
-pypiwin32
+pywin32
