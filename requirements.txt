@@ -279,10 +279,6 @@ python-json-logger==2.0.7
     # via jupyter-events
 pytz==2023.3
     # via pandas
-pywin32==306
-    # via
-    #   -r .\requirements.in
-    #   jupyter-core
 pywinpty==2.0.10
     # via
     #   jupyter-server
