@@ -3,5 +3,4 @@ pandas
 matplotlib
 plotly
 scikit-learn
-hide_code
 dash
